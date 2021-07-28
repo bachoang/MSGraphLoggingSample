@@ -22,7 +22,7 @@ namespace MSGraphLoggingSample
 
         static string ClientId = AzureSettings.ClientId;
         static string TenantId = AzureSettings.TenantId;
-        static string MSALAzureBlobContainerName = AzureSettings.MSGraphAzureBlobContainerName;
+        static string MSALAzureBlobContainerName = AzureSettings.MSALAzureBlobContainerName;
         static string MSALAzureBlobName = AzureSettings.MSALAzureBlobName;
         static string MSGraphAzureBlobContainerName = AzureSettings.MSGraphAzureBlobContainerName;
         static string MSGraphAzureBlobName = AzureSettings.MSGraphAzureBlobName;
